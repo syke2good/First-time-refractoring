@@ -23,6 +23,7 @@
 
 
 **The Result**
+
 *With the help of everyone combining to find the research, use application of concepts, and making specific changes to the files, we were able to ensure an accesible, efficient, and easy to read project.*
 
 **Website**
